@@ -13,6 +13,7 @@ Questions:
 What libraries are required for this project, and why are they useful in data analysis?
 Load the dataset. What is the shape of the dataset? What does each row and column represent?
 
+
 2. Data Overview and Basic Exploration
 
 Task: Explore the structure and composition of the dataset.
